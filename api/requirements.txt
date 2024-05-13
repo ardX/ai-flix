@@ -1,0 +1,9 @@
+Flask==3.0.3
+Flask_Reuploaded==1.4.0
+ipykernel==6.29.4
+mysql_connector_repackaged==0.3.1
+numpy==1.26.4
+opencv_python==4.9.0.80
+pandas==2.2.2
+Requests==2.31.0
+scikit_learn==1.4.2
